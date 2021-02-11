@@ -2,7 +2,7 @@
 day1 git hub workshop
 ##  Basic linux commands
 -  pwd
--  cd
+-  cd path
 -  ls
 -  ls  -a
 -  mkdir foldername
