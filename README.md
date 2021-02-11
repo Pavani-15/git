@@ -5,8 +5,8 @@ day1 git hub workshop
 -  cd
 -  ls
 -  ls  -a
--  mkdir folder name
--  rmdir folder name
+-  mkdir foldername
+-  rmdir foldername
 -  rm filename
 -  cd ../
 -  touch filename
